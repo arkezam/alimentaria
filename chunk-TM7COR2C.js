@@ -1,0 +1,1 @@
+import{Db as i,Za as r,ob as n,pb as s}from"./chunk-5ON5RGEH.js";var t=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=r({type:o,selectors:[["app-ver-registro"]],decls:2,vars:0,template:function(e,a){e&1&&(n(0,"p"),i(1,"ver-registro works!"),s())},encapsulation:2})};export{t as default};
